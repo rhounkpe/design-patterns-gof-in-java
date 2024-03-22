@@ -1,4 +1,4 @@
-package be.digitcom.abstractFactory;
+package be.digitcom.abstractFactory.automobile;
 
 public class AutomobileElectrique extends Automobile {
     public AutomobileElectrique(String modele, String couleur, int puissance, double espace) {

@@ -1,4 +1,4 @@
-package be.digitcom.abstractFactory;
+package be.digitcom.abstractFactory.automobile;
 
 public class AutomobileAEssence extends Automobile {
 
